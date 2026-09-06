@@ -1,30 +1,51 @@
-# Sarankumar G — Portfolio
+Sarankumar G — Senior Data Analytics Portfolio
 
-Recruiter-facing portfolio for Senior Data Analyst and analytics-focused Data Science roles.
+Senior Data Analyst with 5+ years of experience across education analytics and e-governance. I use Power BI, SQL, Python and machine learning to transform complex operational data into clear insights and practical decisions.
 
-## Preview locally
+Live Portfolio
 
-Open `dist/index.html` in a browser. The site is static and does not require npm, Python, a database, or paid hosting.
+https://saranbtech1998-tech.github.io
 
-## Publish for free
+Career Highlights
 
-The `dist` folder can be deployed on GitHub Pages, Cloudflare Pages, Netlify, or Vercel. For GitHub Pages, copy the contents of `dist` to the repository root (or configure Pages to use the correct publishing folder), push to GitHub, and enable Pages in repository settings.
+Analyzed more than 1 million student records across all 38 districts of Tamil Nadu.
 
-## Contact behavior
+Built Power BI and Excel reporting for enrollment, admissions, counselling, vacancies and government education programs.
 
-The **Hire me** buttons use a `mailto:` link with a prepared subject and message. This opens the recruiter’s configured email application; the recruiter reviews and sends the message. This is free and does not expose API keys or require a backend. The **Copy email address** button provides a fallback.
+Reconciled EMIS and UMIS data and supported district- and school-level monitoring.
 
-## Resume placement
+Contributed analytics and gap reporting to statewide Career Guidance interventions.
 
-Add this line near the LinkedIn and GitHub links:
+Supported more than 10 e-governance initiatives through requirements, data validation, UAT and stakeholder coordination.
 
-**Portfolio:** https://sarankumar-data-portfolio.nutty-venus-5829.chatgpt.site
+Technical Skills
 
-In an ATS resume, keep the visible text short and make the full URL clickable.
+Analytics: Power BI, DAX, Excel, KPI reporting and data visualization
 
-## Main files
+Programming: Python, Pandas, NumPy and SQL
 
-- `dist/index.html` — page content and metadata
-- `dist/assets/styles.css` — responsive visual design
-- `dist/assets/site.js` — mobile navigation, reveal effects, and email copy action
-- `dist/assets/sarankumar-professional.webp` — optimized professional portrait
+Databases: MySQL, PostgreSQL and SQLite
+
+Machine Learning: scikit-learn, XGBoost, classification, regression and feature engineering
+
+Delivery: Requirement analysis, BRD/FRD/SRS, UAT, SDLC and stakeholder management
+
+Selected Projects
+
+Higher-Education Student Outcome and Recommendation Prototype
+
+Nifty 50 Stock Performance Dashboard
+
+Fitness Calorie Prediction
+
+Restaurant Analytics Application
+
+Contact
+
+Email: saranbtech1998@gmail.com
+
+LinkedIn: linkedin.com/in/saran-kumar-g
+
+Location: Trichy, Tamil Nadu, India
+
+Open to Senior Data Analyst and analytics-focused Data Science opportunities.
