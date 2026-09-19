@@ -1,6 +1,6 @@
 Sarankumar G — Senior Data Analytics Portfolio
 
-Senior Data Analyst with 5+ years of experience across education analytics and e-governance. I combine Power BI, SQL, Python and applied machine learning to turn complex operational data into reliable reporting, forecasts and decision-support tools.
+Senior Data Analyst with 4+ years of experience across education analytics and e-governance. I combine Power BI, SQL, Python and applied machine learning to turn complex operational data into reliable reporting, forecasts and decision-support tools.
 
 Value delivered
 
